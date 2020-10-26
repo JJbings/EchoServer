@@ -17,16 +17,18 @@ public class Echoer extends Thread {
         try {
             BufferedReader input = new BufferedReader(new InputStreamReader(socket.getInputStream()));
             PrintWriter stringToEcho = new PrintWriter(socket.getOutputStream(), true);
-
+            System.out.println("Client connected");
             while (true){
-                System.out.println("Client connected");
+
                 String echoString = input.readLine();
+                System.out.println(echoString);
                 if (echoString.equals("exit")){
                     break;
                 }
             }
+            System.out.println("client disconnected");
         } catch (IOException e) {
-            System.out.println("oops "+ e.getMessage());
+            System.out.println("Client disconnected, "+ e.getMessage());
         }finally {
             try{
                 socket.close();

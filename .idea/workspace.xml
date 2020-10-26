@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="369c3274-f183-450f-853e-e19a960e8e48" name="Default Changelist" comment="" />
+    <list default="true" id="369c3274-f183-450f-853e-e19a960e8e48" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MyHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EchoServer/Echoer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EchoServer/Echoer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EchoServer/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EchoServer/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Echoer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Echoer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1iCTsn45gTmTPg2xV1jgrSjJ3Eg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -24,12 +35,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.capture" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -56,6 +69,21 @@
       <option name="presentableId" value="Default" />
       <updated>1601410782413</updated>
       <workItem from="1601410785738" duration="1972000" />
+      <workItem from="1601413151827" duration="2784000" />
+      <workItem from="1601566016308" duration="2077000" />
+      <workItem from="1601571159131" duration="641000" />
+      <workItem from="1601572123570" duration="2793000" />
+      <workItem from="1601918652511" duration="1538000" />
+      <workItem from="1602168040402" duration="138000" />
+      <workItem from="1602523645033" duration="876000" />
+      <workItem from="1602525195960" duration="815000" />
+      <workItem from="1602774714602" duration="685000" />
+      <workItem from="1603125804865" duration="2043000" />
+      <workItem from="1603134545542" duration="952000" />
+      <workItem from="1603184904953" duration="2732000" />
+      <workItem from="1603190801982" duration="758000" />
+      <workItem from="1603199624875" duration="3684000" />
+      <workItem from="1603214893490" duration="30000" />
     </task>
     <servers />
   </component>
@@ -71,25 +99,134 @@
       <screen x="-525" y="-2160" width="2560" height="1400" />
     </state>
     <state x="850" y="-1801" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1824.1176/-525.-2160.2560.1400@-525.-2160.2560.1400" timestamp="1601410998429" />
-    <state x="1175" y="-1701" key="FileChooserDialogImpl" timestamp="1601412594987">
-      <screen x="-525" y="-2160" width="2560" height="1400" />
+    <state x="1211" y="386" key="FileChooserDialogImpl" timestamp="1603136867563">
+      <screen x="0" y="0" width="1824" height="1176" />
     </state>
-    <state x="1175" y="-1701" key="FileChooserDialogImpl/0.0.1824.1176/-525.-2160.2560.1400@-525.-2160.2560.1400" timestamp="1601412594987" />
-    <state width="1235" height="401" key="GridCell.Tab.0.bottom" timestamp="1601412761439">
-      <screen x="-525" y="-2160" width="2560" height="1400" />
+    <state x="1175" y="-1701" key="FileChooserDialogImpl/0.0.1824.1176/-525.-2160.2560.1400@-525.-2160.2560.1400" timestamp="1601414371745" />
+    <state x="1211" y="386" key="FileChooserDialogImpl/0.0.1824.1176/-525.-2160.2560.1400@0.0.1824.1176" timestamp="1603136867563" />
+    <state x="1211" y="386" key="FileChooserDialogImpl/0.0.1824.1176@0.0.1824.1176" timestamp="1602775913208" />
+    <state width="1560" height="181" key="GridCell.Tab.0.bottom" timestamp="1603709733781">
+      <screen x="0" y="0" width="1824" height="1176" />
     </state>
-    <state width="1235" height="401" key="GridCell.Tab.0.bottom/0.0.1824.1176/-525.-2160.2560.1400@-525.-2160.2560.1400" timestamp="1601412761439" />
-    <state width="1235" height="401" key="GridCell.Tab.0.center" timestamp="1601412761439">
-      <screen x="-525" y="-2160" width="2560" height="1400" />
+    <state width="1227" height="214" key="GridCell.Tab.0.bottom/0.0.1563.1002@0.0.1563.1002" timestamp="1603205806329" />
+    <state width="1236" height="398" key="GridCell.Tab.0.bottom/0.0.1824.1176/-525.-2160.2560.1400@-525.-2160.2560.1400" timestamp="1601415003780" />
+    <state width="1781" height="183" key="GridCell.Tab.0.bottom/0.0.1824.1176/-525.-2160.2560.1400@0.0.1824.1176" timestamp="1601415822406" />
+    <state width="1560" height="181" key="GridCell.Tab.0.bottom/0.0.1824.1176@0.0.1824.1176" timestamp="1603709733781" />
+    <state width="1560" height="181" key="GridCell.Tab.0.center" timestamp="1603709733781">
+      <screen x="0" y="0" width="1824" height="1176" />
     </state>
-    <state width="1235" height="401" key="GridCell.Tab.0.center/0.0.1824.1176/-525.-2160.2560.1400@-525.-2160.2560.1400" timestamp="1601412761439" />
-    <state width="1235" height="401" key="GridCell.Tab.0.left" timestamp="1601412761439">
-      <screen x="-525" y="-2160" width="2560" height="1400" />
+    <state width="1227" height="214" key="GridCell.Tab.0.center/0.0.1563.1002@0.0.1563.1002" timestamp="1603205806329" />
+    <state width="1236" height="398" key="GridCell.Tab.0.center/0.0.1824.1176/-525.-2160.2560.1400@-525.-2160.2560.1400" timestamp="1601415003779" />
+    <state width="1781" height="183" key="GridCell.Tab.0.center/0.0.1824.1176/-525.-2160.2560.1400@0.0.1824.1176" timestamp="1601415822405" />
+    <state width="1560" height="181" key="GridCell.Tab.0.center/0.0.1824.1176@0.0.1824.1176" timestamp="1603709733781" />
+    <state width="1560" height="181" key="GridCell.Tab.0.left" timestamp="1603709733781">
+      <screen x="0" y="0" width="1824" height="1176" />
     </state>
-    <state width="1235" height="401" key="GridCell.Tab.0.left/0.0.1824.1176/-525.-2160.2560.1400@-525.-2160.2560.1400" timestamp="1601412761439" />
-    <state width="1235" height="401" key="GridCell.Tab.0.right" timestamp="1601412761439">
-      <screen x="-525" y="-2160" width="2560" height="1400" />
+    <state width="1227" height="214" key="GridCell.Tab.0.left/0.0.1563.1002@0.0.1563.1002" timestamp="1603205806329" />
+    <state width="1236" height="398" key="GridCell.Tab.0.left/0.0.1824.1176/-525.-2160.2560.1400@-525.-2160.2560.1400" timestamp="1601415003779" />
+    <state width="1781" height="183" key="GridCell.Tab.0.left/0.0.1824.1176/-525.-2160.2560.1400@0.0.1824.1176" timestamp="1601415822405" />
+    <state width="1560" height="181" key="GridCell.Tab.0.left/0.0.1824.1176@0.0.1824.1176" timestamp="1603709733781" />
+    <state width="1560" height="181" key="GridCell.Tab.0.right" timestamp="1603709733781">
+      <screen x="0" y="0" width="1824" height="1176" />
     </state>
-    <state width="1235" height="401" key="GridCell.Tab.0.right/0.0.1824.1176/-525.-2160.2560.1400@-525.-2160.2560.1400" timestamp="1601412761439" />
+    <state width="1227" height="214" key="GridCell.Tab.0.right/0.0.1563.1002@0.0.1563.1002" timestamp="1603205806329" />
+    <state width="1236" height="398" key="GridCell.Tab.0.right/0.0.1824.1176/-525.-2160.2560.1400@-525.-2160.2560.1400" timestamp="1601415003780" />
+    <state width="1781" height="183" key="GridCell.Tab.0.right/0.0.1824.1176/-525.-2160.2560.1400@0.0.1824.1176" timestamp="1601415822406" />
+    <state width="1560" height="181" key="GridCell.Tab.0.right/0.0.1824.1176@0.0.1824.1176" timestamp="1603709733781" />
+    <state width="1774" height="399" key="GridCell.Tab.1.bottom" timestamp="1601653350555">
+      <screen x="0" y="0" width="1824" height="1176" />
+    </state>
+    <state width="1774" height="399" key="GridCell.Tab.1.bottom/0.0.1824.1176@0.0.1824.1176" timestamp="1601653350555" />
+    <state width="1774" height="399" key="GridCell.Tab.1.center" timestamp="1601653350555">
+      <screen x="0" y="0" width="1824" height="1176" />
+    </state>
+    <state width="1774" height="399" key="GridCell.Tab.1.center/0.0.1824.1176@0.0.1824.1176" timestamp="1601653350555" />
+    <state width="1774" height="399" key="GridCell.Tab.1.left" timestamp="1601653350554">
+      <screen x="0" y="0" width="1824" height="1176" />
+    </state>
+    <state width="1774" height="399" key="GridCell.Tab.1.left/0.0.1824.1176@0.0.1824.1176" timestamp="1601653350554" />
+    <state width="1774" height="399" key="GridCell.Tab.1.right" timestamp="1601653350555">
+      <screen x="0" y="0" width="1824" height="1176" />
+    </state>
+    <state width="1774" height="399" key="GridCell.Tab.1.right/0.0.1824.1176@0.0.1824.1176" timestamp="1601653350555" />
+    <state width="1774" height="399" key="GridCell.Tab.2.bottom" timestamp="1601653350556">
+      <screen x="0" y="0" width="1824" height="1176" />
+    </state>
+    <state width="1774" height="399" key="GridCell.Tab.2.bottom/0.0.1824.1176@0.0.1824.1176" timestamp="1601653350556" />
+    <state width="1774" height="399" key="GridCell.Tab.2.center" timestamp="1601653350555">
+      <screen x="0" y="0" width="1824" height="1176" />
+    </state>
+    <state width="1774" height="399" key="GridCell.Tab.2.center/0.0.1824.1176@0.0.1824.1176" timestamp="1601653350555" />
+    <state width="1774" height="399" key="GridCell.Tab.2.left" timestamp="1601653350555">
+      <screen x="0" y="0" width="1824" height="1176" />
+    </state>
+    <state width="1774" height="399" key="GridCell.Tab.2.left/0.0.1824.1176@0.0.1824.1176" timestamp="1601653350555" />
+    <state width="1774" height="399" key="GridCell.Tab.2.right" timestamp="1601653350555">
+      <screen x="0" y="0" width="1824" height="1176" />
+    </state>
+    <state width="1774" height="399" key="GridCell.Tab.2.right/0.0.1824.1176@0.0.1824.1176" timestamp="1601653350555" />
+    <state x="686" y="238" key="SettingsEditor" timestamp="1601572495587">
+      <screen x="0" y="0" width="1824" height="1176" />
+    </state>
+    <state x="686" y="238" key="SettingsEditor/0.0.1824.1176@0.0.1824.1176" timestamp="1601572495587" />
+    <state x="879" y="418" key="com.intellij.ide.util.TipDialog" timestamp="1603214895493">
+      <screen x="0" y="0" width="1824" height="1176" />
+    </state>
+    <state x="879" y="418" key="com.intellij.ide.util.TipDialog/0.0.1824.1176@0.0.1824.1176" timestamp="1603214895493" />
+    <state x="645" y="263" key="new project wizard" timestamp="1603214920674">
+      <screen x="0" y="0" width="1824" height="1176" />
+    </state>
+    <state x="645" y="263" key="new project wizard/0.0.1824.1176/-525.-2160.2560.1400@0.0.1824.1176" timestamp="1603133228823" />
+    <state x="645" y="263" key="new project wizard/0.0.1824.1176@0.0.1824.1176" timestamp="1603214920674" />
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
   </component>
 </project>
